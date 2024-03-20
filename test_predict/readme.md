@@ -1,0 +1,3 @@
+gan_str_te.csv为测试集的加载文件
+test.py为直接使用已有的模型进行预测，便于快速得到模型性能结果
+predict.py为预测的代码，通过对没有RES的情况下通过特征进行预测，运行后生成结果文件model_predictions_with_X_test.csv在文件夹中
